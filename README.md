@@ -1,0 +1,2 @@
+# arz
+Egyptian Arabic
