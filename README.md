@@ -5,6 +5,7 @@ This repo contains the inflection tables for Egyptian Arabic (ISO 639-3 `arz`)
 ## Contents
 - `arz`: entries based on lemmas that appear in the Egyptian Penn Arabic
   Treebank (ARZATB).
+- `arz.args`: a UniMorph 4.0 compatible verion of `arz`
 - `arz.gloss`: English glosses for the lemmas in `arz`.
 - `README.md`: this file.
 
